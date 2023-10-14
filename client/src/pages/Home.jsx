@@ -18,7 +18,7 @@ const Home = () => {
   useEffect(() => {}, []);
   return (
     <section className="max-w-7xl mx-auto">
-      <div className="mx-auto">
+      <div>
         <h1 className="font-extrabold text-[#222328] text-[32px]">
           The Community Showcase
         </h1>
