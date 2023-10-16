@@ -7,7 +7,13 @@ Using React, Node.js, Express & MongoDB to build a Full Stack MERN Project - fro
 
 ##### Libraries used:
 Backend (server):
-* 
+* cloudinary
+* cors
+* dotenv
+* express
+* mongoose
+* nodemon
+* openai
 
 Frontend (client):
 * tailwindcss
